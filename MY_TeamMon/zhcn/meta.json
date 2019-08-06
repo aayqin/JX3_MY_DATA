@@ -1,7 +1,7 @@
 {
-  "name": "【安予琴】巨冥湾DBM数据(时间轴来源于@上杉云的数据",
+  "name": "【安予琴】DBM数据库",
   "author": "安予琴",
-  "version": "023",
+  "version": "024",
   "data_url": "./data.jx3dat",
   "about": "../README.md"
 }
